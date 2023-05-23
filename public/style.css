@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: darkgray;
+    color: white;
+    width: 80%;
+    margin: auto;
+}
+.header{
+    margin: 0px;
+    padding: 10px;
+ background-color: white;
+ color: black;
+ margin: 10px 0px;
+
+}
+p{
+    padding: 10px;
+
+}
+.p14{
+    background-color: rgb(3, 3, 81);
+}
+.p13{
+    background-color: rgb(6, 6, 98);
+}
+.p12{
+    background-color: rgb(7, 7, 117);
+}
+.p11{
+    background-color: rgb(10, 10, 144);
+}
+.p10{
+    background-color: rgb(11, 11, 164);
+}
+.p9{
+    background-color: rgb(10, 10, 213);
+}
+.p8{
+    background-color: rgb(6, 93, 255);
+}
+.p7{
+    background-color: rgb(7, 117, 44);
+}
+.p6{
+    background-color: rgb(185, 13, 247);
+}.p5{
+    background-color: rgb(179, 42, 203);
+}.p4{
+    background-color: rgb(199, 8, 216);
+}.p3{
+    background-color: rgb(167, 19, 157);
+}
+.p2{
+    background-color: rgb(147, 6, 138);
+}
+.p1{
+    background-color: rgb(142, 11, 133);
+}
+.p0{
+    background-color: rgb(88, 18, 83);
+}
+
